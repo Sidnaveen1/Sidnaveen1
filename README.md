@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidnaveen1 
 - 👀 I’m interested in java and postgresql.
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...Advanced java
 - 💞️ I’m looking to collaborate on ...community
 - 📫 How to reach me ...
 

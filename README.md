@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidnaveen1 
-- 👀 I’m interested in python and web development.
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in java and postgresql.
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...community
 - 📫 How to reach me ...
 
